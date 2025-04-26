@@ -1,16 +1,13 @@
-# firebase_integration
+# Actividad 3.7: Integración de base de datos - Firebase
 
-A new Flutter project.
+Este proyecto Flutter realiza la integración de una aplicación móvil con Firebase, permitiendo agregar datos a Firestore de manera remota mediante un botón dentro de la aplicación.
 
-## Getting Started
+## Tecnologías utilizadas
+- Flutter
+- Firebase Core
+- Cloud Firestore
 
-This project is a starting point for a Flutter application.
+## Funcionalidad
+- Agregar registros a una colección en Firestore desde una aplicación Flutter mediante un botón de acción.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
